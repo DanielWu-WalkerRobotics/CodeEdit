@@ -65,6 +65,8 @@ Join our growing community on [Discord](https://discord.gg/vChUXVf9Em) where we 
 ## Contributing
 
 Be part of the next revolution in code editing by contributing to the project. This is a community-led effort, so we welcome as many contributors who can help. Read the [Contribution Guide](https://github.com/CodeEditApp/CodeEdit/blob/main/CONTRIBUTING.md) for more information.
+## Test WuWR
+
 
 ## Contributors
 
